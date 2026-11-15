@@ -1,0 +1,12 @@
+{
+  "property_name": "Casa Olivella Seaside Hotel",
+  "location": "Split, Croatia",
+  "room_types": ["Standard Double", "Superior Sea View Double", "Family Suite"],
+  "price_per_night": {
+    "Standard Double": "95 EUR",
+    "Superior Sea View Double": "125 EUR",
+    "Family Suite": "180 EUR"
+  },
+  "cancellation_policy": "Free cancellation up to 7 days before arrival; 50% charged 7 to 3 days before; 100% within 3 days",
+  "inclusions": ["Breakfast buffet", "Free Wi-Fi", "Rooftop pool access"]
+}
